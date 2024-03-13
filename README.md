@@ -1,6 +1,6 @@
 # Frontend Mentor - Space tourism website
 
-This is a solution to the Space tourism website challenge on Frontend Mentor.
+This is my solution to the Space tourism website challenge on Frontend Mentor.
 
 ![Design preview for the Space tourism website coding challenge](media/preview.jpg)
 
